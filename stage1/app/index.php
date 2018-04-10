@@ -43,11 +43,13 @@
     <div style="margin-top: 100px;">
       <div class="col-md-4">
           <div class="card" style="border: none;box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); margin: auto;">
-            <img src="http://placehold.it/180x180" alt="Card image cap" width="200" style="border-radius: 100%; padding: 20px;">
+            <img src="https://i.pinimg.com/originals/0b/8e/c3/0b8ec3e1d7f356b10097e870dbc5ba2b.png" alt="Card image cap" width="100" style="border-radius: 100%; padding: 20px;">
             <h2>WELCOME</h2>
+            <h1>
             <?php
               echo $timestamp = date('H:i:s');
             ?> 
+            </h1>
           </div>
       </div>
     </div>
