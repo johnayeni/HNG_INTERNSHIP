@@ -24,7 +24,6 @@
                 <h2>WELCOME</h2>
                 <h1>
                 <?php
-                    date_default_timezone_set('Africa/Lagos');
                     echo $timestamp = date('H:i:s');
                 ?> 
                 </h1>
